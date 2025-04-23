@@ -1,0 +1,37 @@
+[{
+  "book_id": "6518605",
+  "book_name": "三体全集",
+  "book_author": "刘慈欣",
+  "book_isbn": "9787229042066",
+  "book_publisher": "重庆出版社",
+  "book_price": "168.00元",
+  "book_date": "2012-1-1",
+  "book_rating": 9.5
+},{
+  "book_id": "1068920",
+  "book_name": "飘",
+  "book_author": "[美国] 玛格丽特·米切尔",
+  "book_isbn": "9787806570920",
+  "book_publisher": "译林出版社",
+  "book_price": "40.00元",
+  "book_date": "2000-9",
+  "book_rating": 9.3
+},{
+  "book_id": "24531956",
+  "book_name": "哈利·波特",
+  "book_author": "J.K.罗琳 (J.K.Rowling)",
+  "book_isbn": "9787020096695",
+  "book_publisher": "人民文学出版社",
+  "book_price": "498.00元",
+  "book_date": "2008-12-1",
+  "book_rating": 9.7
+},{
+  "book_id": "1449351",
+  "book_name": "呐喊",
+  "book_author": "鲁迅",
+  "book_isbn": "10019-1979",
+  "book_publisher": "人民文学出版社",
+  "book_price": "0.36元",
+  "book_date": "1973-3",
+  "book_rating": 9.2
+}]
